@@ -1,0 +1,3 @@
+arxiv
+networkx[default,extra]
+scholarly
